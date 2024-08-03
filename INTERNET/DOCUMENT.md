@@ -1,4 +1,4 @@
-# 1. How does the internet work?
+# How does the internet work?
 
 - **Packet**: một đơn vị dữ liệu nhỏ được truyền qua internet.
 - **Router**: định hướng Packets giữa networks khác nhau.
@@ -8,7 +8,7 @@
 - **HTTP (Hypertext Transfer Protocol)**: truyền dữ liệu giữa Client và Server.
 - **HTTPS**: HTTP được mã hóa cung cấp an toàn liên lạc Client và Server.
 - **SSL/TLS (Secure Sockets Layer/Transport Layer Security)**: cung cấp liên lạc an toàn qua internet.
-
+****
 ## A. Vai trò của các giao thức internet
 
 > Giao tiếp và trao đổi dữ liệu.
@@ -47,6 +47,7 @@
 - **Handshake**: thuật toán mã hóa và các tham số khác cho kết nối an toàn.
 - **Encryption**: khi kết nối an toàn dữ liệu sẽ được mã hóa bằng thuật toán đã thỏa thuận và có thể được truyền một cách an toàn giữa Client và Server.
 
-# 2. What is HTTP?
+****
+#  What is HTTP?
         
-> HTTP là một giao thức ứng dụng cho hệ thống thông tin phân tán, cộng tác, và siêu phương tiện. HTTP là viết tắt của **HyperText Transfer Protocol**. Nó là một giao thức để truyền tải tài liệu siêu văn bản như HTML. HTTP được thiết kế cho các giao tiếp giữa trình duyệt web và máy chủ web, nhưng nó cũng có thể được sử dụng cho các mục đích khác.
+> HTTP là giao thức truyền siêu văn bản, là một giao thức được sử dụng để lấy các tài nguyên như tệp HTML. HTTP cung cấp một tiêu chuẩn nhắn tin để tạo điều kiện trao đổi thông tin giữa các Client và Server.
